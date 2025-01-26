@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    margin: 45px;
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+main p{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+footer{
+    background-color:;
+}
